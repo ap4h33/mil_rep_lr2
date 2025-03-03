@@ -2,10 +2,12 @@
 
 **Дата:** 03.03.2025
 
+from imput.py import imput
+
 # Запрос имени пользователя
-name = input("Введите ваше имя:
+name = input("Введите ваше имя:") #input feature in dif file
 
 # Запрос возраста пользователя
-age = input("Введите ваш возраст:
+age = input("Введите ваш возраст:")
 
-print(f"Привет, {name}! Вам {age} лет".
+print(f"Привет, {name}! Вам {age} лет".)
